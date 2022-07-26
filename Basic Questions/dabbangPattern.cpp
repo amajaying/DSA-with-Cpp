@@ -24,12 +24,4 @@ int main()
         cout << endl;
         a--;
     }
-    // for (int i = 0; i <= 8; i = i + 2)
-    // {
-    //     for (int j = 0; j < i; j++)
-    //     {
-    //         cout << "*";
-    //     }
-    //     cout << endl;
-    // }
 }
